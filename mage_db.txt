@@ -1,0 +1,13 @@
+Magento dB for use with STv0.5
+------------------------------
+This database has been exported without customer, order, or index data. It contains:
+Clean EE 1.13
+Clean MT Dend
+One Step Checkout
+SEO Layered Navigation
+Basic Sounds True Attributes and Attribute Sets
+One Sounds True Product: A Lamp In The Darkness
+The PayPal logo has been disabled through the Configuration -> Payments
+Polls have been disabled through Configuration -> Advanced
+MT Dend Social Media info has been cleaned out 
+MT Dend Theme Changer (visible to customers) has been disabled in admin
