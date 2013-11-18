@@ -1,4 +1,4 @@
-magentodb
+mage_db
 =========
 These SQP dumps have been generated using n98-magerun.phar, unless otherwise noted.
 
